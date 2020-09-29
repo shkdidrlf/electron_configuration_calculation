@@ -1,4 +1,4 @@
-# electron_configuration_calculation
+# Electron configuration descriptor calculation
 Codes for calculating electron configuration descriptor for inorganic compounds
 
 Hyun Kil Shin, Electron configuration-based neural network model to predict physicochemical properties of inorganic compounds, RSC Advances, 2020, 10, 33268-33278.
