@@ -10,5 +10,4 @@ ORCID: https://orcid.org/0000-0003-3665-0841
 (input example file is 'molecular_formular_input_example.xlsx)
 
 [2] Code for electron configuration descriptor calculation
-'calculate_electron_configuration.py' calcualtes electron configuration descriptor based on two input files:
-1) element table prepared by code[1] and 2) ground-state electron configuration for elements ('electron_cohnfiguration_final_no7d7f.xlsx')
+'calculate_electron_configuration.py' calcualtes electron configuration descriptor based on two input files: 1) element table prepared by code[1] and 2) ground-state electron configuration for elements ('electron_cohnfiguration_final_no7d7f.xlsx')
